@@ -26,7 +26,7 @@ I am a highly driven and curious student pursuing a degree in Computer Science w
 You can find my coursework, certification notes, and hands-on cybersecurity projects across my repositories:
 
 - 🔐 `cybersecurity-certificate` — Notes, summaries, and labs from the Google Cybersecurity Certificate
-- 💡 `ECGR2104-projects` — C++ coursework and projects from Embedded Systems class
+- 💡 `ECGR2104-projects` — C++ coursework and projects from my Computer Engineering Programming II class
 
 ---
 
