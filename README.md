@@ -32,9 +32,8 @@ You can find my coursework, certification notes, and hands-on cybersecurity proj
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Python, C++, Java, Bash
-- **Cybersecurity Tools:** Wireshark, Linux CLI, Nmap, Splunk (beginner), Nessus (learning)
-- **Operating Systems:** Windows, Linux (Ubuntu, Kali)
+- **Languages:** Python, C++, Java
+- **Operating Systems:** Windows, Linux (Still Learning)
 - **Other:** Git, GitHub, Visual Studio Code
 
 ---
