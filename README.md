@@ -33,7 +33,7 @@ You can find my coursework, certification notes, and hands-on cybersecurity proj
 ## 🛠️ Tools & Technologies
 
 - **Languages:** Python, C++, Java
-- **Operating Systems:** Windows, Linux (Still Learning)
+- **Operating Systems:** Linux (Still Learning)
 - **Other:** Git, GitHub, Visual Studio Code
 
 ---
